@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Nuevo Siglo S.A.</string>
+    <string name="et_correo">Correo</string>
+    <string name="et_clave">Clave</string>
+    <string name="no_login">Usuario y contraseña no validas</string>
+    <string name="et_logout">Logout</string>
+
+    <string name="title_activity_principal">Principal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="nombreLugar">Nombre del lugar</string>
+    <string name="correoLugar">Email</string>
+    <string name="telefonoLugar">Telefono(9999-9999)</string>
+    <string name="webLugar">Web</string>
+    <string name="btAddLugar">Agregar lugar</string>
+    <string name="btUpdateLugar">Actualizar lugar</string>
+    <string name="btADeleteLugar">Borrar lugar</string>
+
+    <string name="ms_AddLugar">Lugar agregado</string>
+    <string name="ms_UpdateLugar">Lugar modificado</string>
+    <string name="ms_DeleteLugar">Lugar borrado</string>
+    <string name="ms_FaltaValores">Faltan valores</string>
+
+
+</resources>

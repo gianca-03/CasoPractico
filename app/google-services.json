@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045376526989",
+    "project_id": "casopractico-c8c21",
+    "storage_bucket": "casopractico-c8c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045376526989:android:fcef04e5e45321915310c4",
+        "android_client_info": {
+          "package_name": "com.example.casopractico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045376526989-gn3rthjji0ueeru989rfctklcfj84305.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHQ3nqeOrZXc7BFZuxKAllvCHbtL1t9QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045376526989-gn3rthjji0ueeru989rfctklcfj84305.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
